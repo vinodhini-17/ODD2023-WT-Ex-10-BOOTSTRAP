@@ -295,34 +295,35 @@ Add a script to handle the form validation on submit.
           </div>
     <button type="button" class="btn btn-success"> Submit </button>
     ``````
- ## OUTPUTt 10(3):
+```````
+ ## OUTPUT 10(3):
 ![3B](https://github.com/vinodhini-17/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742741/8df7175b-bdfc-4c80-925a-9d0d7c476b06)
 
 
-RESULT:
+## RESULT:
 This code develops a program to structure vertical form layouts which handle form validation in bootstrap.
 
-Ex-10(4):
-AIM:
+## Ex-10(4):
+## AIM:
 Create a basic email login form in Bootstrap with validation function.
 
-DESIGN STEPS: 10(4)
-STEP 1:
+## DESIGN STEPS: 10(4)
+## STEP 1:
 Initialize the HTML document with the necessary Bootstrap links.
 
-STEP 2:
+## STEP 2:
 Create a container for the form and add a heading.
 
-STEP 3:
+## STEP 3:
 Inside the form, create a form group for the email input field. Add the required attribute to the input field for validation.
 
-STEP 4:
+## STEP 4:
 Add a submit button for the form.
 
-STEP 5:
+## STEP 5:
 Add a script to handle the form validation on submit.
 
-CODE:10(4)
+## CODE:10(4)
 
 <!DOCTYPE html>
 <html lang="en">
@@ -396,9 +397,10 @@ CODE:10(4)
 </body>
 </html>
 ``````
-OUTPUT:10(4)
+
+## OUTPUT:10(4)
 ![B4](https://github.com/vinodhini-17/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742741/cde27fc0-588e-44c1-a6c1-a0944cdb98e0)
 
 
-RESULT:
+## RESULT:
 This code creates a basic email login form in Bootstrap with validation function
