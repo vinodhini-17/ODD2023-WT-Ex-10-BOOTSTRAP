@@ -101,7 +101,8 @@ CODE 10(1) :
 ``````
 
 OUTPUT 10(1):
-Alt text
+![B1](https://github.com/vinodhini-17/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742741/c9351ced-1cbe-4512-bdf2-b33897a13fd5)
+
 
 RESULT:
 This code creates a responsive feedback form for a virtual workshop on constructing modern websites built with Bootstrap.
@@ -209,7 +210,8 @@ CODE:10(2):
 </html>
 ``````
 OUTPUT 10(2):
-Alt text
+![b2](https://github.com/vinodhini-17/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742741/5dc60a4c-e4d9-4f3a-b917-e387489ca698)
+
 
 RESULT:
 This code creates a Responsive student registration form for ABCEngineering College built with Bootstrap.
@@ -294,7 +296,8 @@ CODE 10(3):
     <button type="button" class="btn btn-success"> Submit </button>
     ``````
 OUTPUT 10(3):
-Alt text
+![3B](https://github.com/vinodhini-17/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742741/8df7175b-bdfc-4c80-925a-9d0d7c476b06)
+
 
 RESULT:
 This code develops a program to structure vertical form layouts which handle form validation in bootstrap.
@@ -394,7 +397,8 @@ CODE:10(4)
 </html>
 ``````
 OUTPUT:10(4)
-Alt text
+![B4](https://github.com/vinodhini-17/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742741/cde27fc0-588e-44c1-a6c1-a0944cdb98e0)
+
 
 RESULT:
 This code creates a basic email login form in Bootstrap with validation function
