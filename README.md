@@ -18,7 +18,7 @@ Construct the form
 Add a submit button and Link Bootstrap JavaScript.
 
 ## CODE 10(1) :
-'''DEVELOPED BY: ABINAYA.A NO:212223040003'''
+'''DEVELOPED BY: VINODHINI.K NO:212223230245'''
 ``````
 <html>
   <head>
@@ -295,7 +295,7 @@ Add a script to handle the form validation on submit.
           </div>
     <button type="button" class="btn btn-success"> Submit </button>
     ``````
- OUTPUTt 10(3):
+ ## OUTPUTt 10(3):
 ![3B](https://github.com/vinodhini-17/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742741/8df7175b-bdfc-4c80-925a-9d0d7c476b06)
 
 
