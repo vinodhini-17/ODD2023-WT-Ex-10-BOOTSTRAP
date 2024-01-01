@@ -325,6 +325,7 @@ Add a script to handle the form validation on submit.
 
 ## CODE:10(4)
 
+``````
 <!DOCTYPE html>
 <html lang="en">
 <head>
