@@ -320,7 +320,7 @@ STEP 5:
 Add a script to handle the form validation on submit.
 
 CODE:10(4)
-``````
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -364,6 +364,7 @@ CODE:10(4)
       <!-- Submit Button -->
       <button type="submit" class="btn btn-primary">Login</button>
     </form>
+
   </div>
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
