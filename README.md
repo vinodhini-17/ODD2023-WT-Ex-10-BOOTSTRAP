@@ -1,23 +1,23 @@
 # Ex-10-BOOTSTRAP
 
-EX-10(1):
-AIM:
+## EX-10(1):
+## AIM:
 Create a Responsive feedback form for a virtual workshop on Constructing Modern Websites built with Bootstrap.
 
-DESIGN STEPS:10(1) :
-STEP 1:
+## DESIGN STEPS:10(1) :
+## STEP 1:
 Initialize the HTML document.
 
-STEP 2:
+## STEP 2:
 Create the body structure.
 
-STEP 3:
+## STEP 3:
 Construct the form
 
-STEP 4:
+## STEP 4:
 Add a submit button and Link Bootstrap JavaScript.
 
-CODE 10(1) :
+## CODE 10(1) :
 '''DEVELOPED BY: ABINAYA.A NO:212223040003'''
 ``````
 <html>
@@ -100,34 +100,34 @@ CODE 10(1) :
 </html>
 ``````
 
-OUTPUT 10(1):
+## OUTPUT 10(1):
 ![B1](https://github.com/vinodhini-17/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742741/c9351ced-1cbe-4512-bdf2-b33897a13fd5)
 
 
-RESULT:
+## RESULT:
 This code creates a responsive feedback form for a virtual workshop on constructing modern websites built with Bootstrap.
 
-EX-10(2):
-AIM:
+## EX-10(2):
+## AIM:
 Create a Responsive student registration form for ABC Engineering College built with Bootstrap.
 
-DESIGN STEPS 10(2):
-STEP 1:
+## DESIGN STEPS 10(2):
+## STEP 1:
 Initialize the HTML document with the necessary Bootstrap links.
 
-STEP 2:
+## STEP 2:
 Create a container for the form and add a heading.
 
-STEP 3:
+## STEP 3:
 Inside the form, create form groups for the student’s name, email, and course.
 
-STEP 4:
+## STEP 4:
 Add a submit button for the form.
 
-STEP 5:
+## STEP 5:
 Link the Bootstrap JavaScript file at the end of the body.
 
-CODE:10(2):
+# CODE:10(2):
 ``````
 <html>
   <head>
@@ -209,34 +209,34 @@ CODE:10(2):
 </body>
 </html>
 ``````
-OUTPUT 10(2):
+## OUTPUT 10(2):
 ![b2](https://github.com/vinodhini-17/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742741/5dc60a4c-e4d9-4f3a-b917-e387489ca698)
 
 
-RESULT:
+## RESULT:
 This code creates a Responsive student registration form for ABCEngineering College built with Bootstrap.
 
-Ex-10(c)
-AIM:
+## Ex-10(c)
+## AIM:
 Develop a program to structure vertical form layouts which handle form validation in bootstrap.
 
-DESIGN STEPS 10(3):
-STEP 1:
+## DESIGN STEPS 10(3):
+## STEP 1:
 Initialize the HTML document with the necessary Bootstrap links.
 
-STEP 2:
+## STEP 2:
 Create a container for the form and add a heading.
 
-STEP 3:
+## STEP 3:
 Inside the form, create a form group for the name input field. Add the required attribute to the input field for validation.
 
-STEP 4:
+## STEP 4:
 Add a submit button for the form.
 
-STEP 5:
+## STEP 5:
 Add a script to handle the form validation on submit.
 
-CODE 10(3):
+## CODE 10(3):
 ``````
 <form>
     <div class="form-group">
@@ -295,7 +295,7 @@ CODE 10(3):
           </div>
     <button type="button" class="btn btn-success"> Submit </button>
     ``````
-OUTPUT 10(3):
+ OUTPUTt 10(3):
 ![3B](https://github.com/vinodhini-17/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742741/8df7175b-bdfc-4c80-925a-9d0d7c476b06)
 
 
